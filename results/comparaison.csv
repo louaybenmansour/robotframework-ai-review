@@ -1,0 +1,5 @@
+prompt_version,category,script,probleme_reel,detecte_par_claude,detecte_par_chatgpt,detecte_par_gemini,faux_positif_claude,faux_positif_chatgpt,faux_positif_gemini
+prompt_v2,bad,login_bad,Sleep fixe au lieu de Wait Until,1,1,0,0,0,0
+prompt_v2,bad,login_bad,Identifiants hardcodes,1,0,1,0,0,0
+prompt_v2,bad,login_bad,Noms de test non descriptifs,1,1,1,0,0,0
+prompt_v2,good,login_good,Aucun probleme reel attendu,0,0,0,0,0,0
